@@ -26,7 +26,7 @@
         <tbody>
           <tr>
             <td class="admin-property-th">Адрес</td>
-            <td class="admin-property-td">ул. Ленина, 25, г. Москва</td>
+            <td class="admin-property-td">ул. Ленина, 25, г. Черкесск</td>
           </tr>
           <tr>
             <td class="admin-property-th">Управляющая компания</td>

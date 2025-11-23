@@ -84,7 +84,7 @@
         <div class="main-account-label mr-4">
           <template v-if="role === 'resident'">ул. Ленина, 25</template>
           <template v-else-if="role === 'uk'">ООО "ДомСервис"</template>
-          <template v-else-if="role === 'admin'">г. Москва</template>
+          <template v-else-if="role === 'admin'">г. Черкесск</template>
         </div>
         <v-btn icon class="mr-2"><v-icon color="#8a99b3">mdi-bell-outline</v-icon></v-btn>
         <v-btn icon @click="logout" class="mr-2"><v-icon color="#8a99b3">mdi-logout</v-icon></v-btn>

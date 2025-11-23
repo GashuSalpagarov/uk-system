@@ -26,7 +26,7 @@
           <v-list density="compact">
             <v-list-item>
               <v-list-item-title>Адрес</v-list-item-title>
-              <v-list-item-subtitle>ул. Ленина, 25, г. Карачаевск</v-list-item-subtitle>
+              <v-list-item-subtitle>ул. Ленина, 25, г. Черкесск</v-list-item-subtitle>
             </v-list-item>
             <v-list-item>
               <v-list-item-title>Управляющая компания</v-list-item-title>

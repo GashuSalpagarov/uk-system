@@ -26,7 +26,7 @@
         <tbody>
           <tr>
             <td class="uk-property-th">Адрес</td>
-            <td class="uk-property-td">ул. Ленина, 25, г. Карачаевск</td>
+            <td class="uk-property-td">ул. Ленина, 25, г. Черкесск</td>
           </tr>
           <tr>
             <td class="uk-property-th">Управляющая компания</td>
